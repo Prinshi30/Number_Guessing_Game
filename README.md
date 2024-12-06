@@ -40,4 +40,4 @@ Number Guessing Game is a simple Java-based console game where the user tries to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Number_Guessing_Game.git
+   git clone https://github.com/Prinshi30/Number_Guessing_Game.git
